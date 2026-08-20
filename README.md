@@ -12,14 +12,3 @@ Antonina is located on the coast of Paraná and is part of a region of high envi
 📊 Data
 
 The spatial datasets used in this project were obtained from IBGE, Google Earth Satellite and GeoPR Platform.
-
-
-
-## License
-
-The original cartographic work and project files in this repository
-are licensed under the Creative Commons Attribution 4.0 International
-(CC BY 4.0) license.
-
-Third-party datasets remain subject to their respective licenses
-and terms of use.
