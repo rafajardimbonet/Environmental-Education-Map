@@ -5,11 +5,11 @@ Thematic map developed in QGIS as educational material for an environmental educ
 This map was developed as supporting material for an environmental education activity, aiming to facilitate the understanding of Antonina's territory and its environmental features through thematic cartography.
 
 
-📍 Study Area: Antonina, Paraná, Brazil
+## Study Area: Antonina, Paraná, Brazil
 
 Antonina is located on the coast of Paraná and is part of a region of high environmental relevance, within the Atlantic Forest biome and the Serra do Mar region.
 
-📊 Data
+## Data
 
 The spatial datasets used in this project were obtained from IBGE, Google Earth Satellite and GeoPR Platform.
 
